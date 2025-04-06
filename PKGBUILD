@@ -2,7 +2,7 @@ pkgname=(
   vq-environment-configuration
   vq-skel
 )
-pkgrel=5
+pkgrel=6
 pkgver=0.0.1
 source=(
   "vq-skel.zip"
@@ -10,7 +10,7 @@ source=(
 )
 sha512sums=(
   "c02de5c22da37dc2e9377a7c5d12ba9916c395d967e61a2b4885ea13970d308134a25f4f571c860d67d98e23a8c6bef21d1d67f86aa3c8f0a8a7d9132704cda1"
-  "1d9971d981249fc3657ffca803cfccc2b3e3680828c0cd2b39cec63674e034589e5eb7cd686e66cb09d1c236fc7dadab24b315f93cf33fa6cffd9a8846a777f8"
+  "6135a26c1b803674e778e60565a7453d16a54719ff010cc350ea89f513a8cf9bf9bf02fa3d0f9ef496853404976086a5a86871e7cb6bf373c24f3ae5546729a6"
 )
 arch=(
   any
